@@ -37,4 +37,22 @@ ls
 - An relative pathname starts from current working directory '/home/rohit'.
 - We can access the files only consists in this directory.
 
+### Link :
+A link is simply a another way of accessing file or directory.
+- #### Hard Link :
+  - Another name for the same file, if you delete one the other one remains.
+  
+  Ex : 
+  ```bash
+  ln file1 file2
+  ```
 
+- #### Symbolic (Soft) Link :
+    - Like the windows shortcut, if the original will deleted then shortcut stop working.
+    
+    Ex :
+    ```bash
+    ln -s file1 shortcut
+    ```
+- #### inodes :
+  - An inode is a internal data structure Linux uses to stores information about files. 

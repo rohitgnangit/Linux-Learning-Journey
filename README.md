@@ -10,4 +10,7 @@
 
 ### Chapter-2 : Essential File Management Tools
 - Files & directories 
-- cp, mv, rm, mkdir 
+- cp, mv, rm, mkdir
+- Hard links & symbolic links 
+- tar 
+

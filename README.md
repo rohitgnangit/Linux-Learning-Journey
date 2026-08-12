@@ -14,3 +14,13 @@
 - Hard links & symbolic links 
 - tar 
 
+### Chapter-3 : Working with text files
+- cat 
+- less 
+- head 
+- tail 
+- Regular expressions 
+- sort 
+- cut 
+- wc 
+- grep 

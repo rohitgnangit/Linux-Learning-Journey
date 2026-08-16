@@ -27,3 +27,7 @@
 
 ### Chapter-4 : File Structure
 - Explanation of all files
+
+### Chapter-5 : Files & Directory Permissions
+- Permissions explanation
+- Change permissions

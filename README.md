@@ -31,3 +31,9 @@
 ### Chapter-5 : Files & Directory Permissions
 - Permissions explanation
 - Change permissions
+
+### Chapter-6 : Wild card & Redirections
+- Types in wild card
+- types in redirection
+- Pipe ( | )
+- grep

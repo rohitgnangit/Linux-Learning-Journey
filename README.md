@@ -37,3 +37,11 @@
 - types in redirection
 - Pipe ( | )
 - grep
+
+### Chapter-7 : User & Group Management
+- Adding user
+- Modifying existing user
+- Deleting existing user
+- Creating group
+- Deleting group
+- Adding user to multiple groups

@@ -45,3 +45,14 @@
 - Creating group
 - Deleting group
 - Adding user to multiple groups
+
+### System logs
+- System logs
+- journalctl command
+
+### Processes & Services
+- ps
+- nice
+- top
+- kill
+- systemctl

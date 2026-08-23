@@ -46,13 +46,22 @@
 - Deleting group
 - Adding user to multiple groups
 
-### System logs
+### Chapter-8 : System logs
 - System logs
 - journalctl command
 
-### Processes & Services
+### Chapter-9 : Processes & Services
 - ps
 - nice
 - top
 - kill
 - systemctl
+
+### Chapter-10 : Networking
+- ipv4
+- ipv6
+- Subnet Mask
+- MAC address
+- Protocol & Ports
+- Fixed & Dynamic IP
+- Important network commands

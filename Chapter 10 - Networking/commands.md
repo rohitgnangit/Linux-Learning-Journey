@@ -1,0 +1,13 @@
+- **`ip addr`** : To shows your system IP address
+- **`ip link`** : It is used to view & manage the interfaces
+    - **`-s`** : will show interface statistics
+- **`ip route`** : It is used to view and manages the routing table in Linux
+- **`ss`** : Socket Statistics
+    - **`ss -t`** : TCP connections
+    - **`ss -u`** : UDP connections
+    - **`ss -l`** : Listenning sockets
+    - **`ss tuln`** : TCP/UDP Listenning ports
+    - **`ss tulnp`** : Also shows process info
+- **`curl`** : Used to send request to server and get response (HTTP/HTTPS)
+- **`nmcli`** : Used to view, manage network connections from terminal
+- **`nmtui`** : Used to view, manage network connections through interface menu.

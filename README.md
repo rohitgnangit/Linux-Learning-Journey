@@ -65,3 +65,10 @@
 - Protocol & Ports
 - Fixed & Dynamic IP
 - Important network commands
+
+### Chapter-11 : Shell Scripting
+- What is shell script
+- Shebang
+- Variables
+- Conditional Statements
+- Loops

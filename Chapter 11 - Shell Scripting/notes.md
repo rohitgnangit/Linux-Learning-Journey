@@ -88,3 +88,16 @@ do
     ((num--))
 done
 ```
+
+### Functions :
+A function is a named block that contains commands that you can excecute whenever you need it.
+- Ex :
+```bash
+greeting() {
+    echo "Hi"
+    echo "Ela"
+    echo "Unnav"
+}
+
+greetings
+```

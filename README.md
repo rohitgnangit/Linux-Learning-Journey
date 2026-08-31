@@ -72,3 +72,4 @@
 - Variables
 - Conditional Statements
 - Loops
+- Functions

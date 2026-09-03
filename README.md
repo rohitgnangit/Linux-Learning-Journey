@@ -73,3 +73,7 @@
 - Conditional Statements
 - Loops
 - Functions
+
+### Practicing Tasks 
+- Day 1
+    - Application Server File Management & Log Backup

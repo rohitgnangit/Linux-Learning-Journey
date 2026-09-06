@@ -77,3 +77,5 @@
 ### Practicing Tasks 
 - Day 1
     - Application Server File Management & Log Backup
+- Day 2
+    - User & Group Management

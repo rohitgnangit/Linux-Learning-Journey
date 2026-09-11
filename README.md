@@ -81,3 +81,5 @@
     - User & Group Management
 - Day 3
     - Process-Service-Management
+- Day 4 
+    - Shell Scripting
